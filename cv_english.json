@@ -1,66 +1,71 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "César Sobrino",
+    "label": "Full-Stack developer with more than 5 years of experience.",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
+    "email": "casobrino_0@hotmail.com",
+    "phone": "+52 9961053735",
+    "url": "https://linkedin.com/in/casobrino0",
     "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "address": "Calle 59b2 #280",	
+      "postalCode": "97238",
+      "city": "Mérida Yucatán México",
+      "countryCode": "MX",
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "url": "https://linkedin.com/in/casobrino0"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "casobrino",
+        "url": "https://github.com/casobrino"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Billboard Planet",
+      "position": "Full Stack Developer (.NET, Angular, SQLServer)",
+      "url": "https://online.billboardplanet.com/",
+      "startDate": "2022-07-15",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "Creation and maintenance of out-of-home advertising management software, creation of new modules, and integration with external APIs. At Billboard Planet, the vision I bring in UX and UI is of great value to the company.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "Humanlab",
+      "position": "Full Stack Developer",
+      "url": "https://www.hiumanlab.com/",
+      "startDate": "2022-01-15",
+      "endDate": "2022-12-20",
+      "summary": "At Humanlab, we worked under contract with different companies and projects. During my time at Humanlab, I used various technologies, but all of them were based on React and NestJS for the backend.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "Freelance",
+      "position": "Freelancer",
+      "startDate": "2016-05-01",
+      "endDate": "2019-05-01",
+      "summary": "I was part of a group of freelancers who worked during university to cover my expenses. Most of the projects were given by the professors.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Plenum Services",
+      "position": "Software Devloper",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
+      "summary": "I was hired to make the land page of plenum services, which brings services of logistics for petroleum enterprises as Cotemar and Pemex, contact area and database of their clients",
       "highlights": [
         "Started the company"
       ]
@@ -78,13 +83,25 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
+    "institution": "Mérida Institute of Technology",
+    "url": "https://www.merida.tecnm.mx/",
+    "area": "Computer Systems Engineering",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "startDate": "2015-08-01",
+    "endDate": "2018-12-01",
+    "score": "0.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+    "institution": "Institute Benjamin Franklin",
+    "url": "https://benjaminfranklin.com.mx/",
+    "area": "C2 English Lenguague",
+    "studyType": "Bachelor",
+    "startDate": "2022-08-01",
+    "endDate": "2023-12-01",
+    "score": "0.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
@@ -173,6 +190,13 @@
       ]
     },
     {
+      "name": "Angular",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
       "name": "Next.js",
       "level": "Advanced",
       "keywords": [
@@ -210,66 +234,33 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "name": "Quiosco App",
+      "isActive": false,
+      "description": "Restaurant kiosk for ordering food from your mobile phone without contact. Based on the technology of multinational companies like McDonald's or Starbucks.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "Quiosco",
+        "Restaurant",
+        "Mobile"
       ],
-      "url": "https://mars.codes"
+      "url": "https://github.com/casobrino/quiosco-next"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "name": "Task Mannager",
+      "isActive": false,
+      "description": "Task manager with authentication and real-time database, enabled for tasks with collaborators, my version of an application called Trello.",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "Manager",
+        "Trello"	
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://github.com/casobrino/taskManager"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "name": "Console Task Manager",
+      "isActive": false,
+      "description": "Simple task manager based on local commands",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/casobrino/console-task-manager"
     }
   ]
 }
